@@ -1,0 +1,14 @@
+.Heading {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 3rem;
+}
+.Heading h1{
+    font-size: 30px;
+}
+
+.Heading p {
+    font-size: 15px;
+}

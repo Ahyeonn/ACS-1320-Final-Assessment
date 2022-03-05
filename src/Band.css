@@ -1,0 +1,12 @@
+.Bands .name{
+    font-size: 35px;
+}
+
+.Bands .formed{
+    font-size: 17px;
+}
+
+.Bands {
+    border: solid;
+    padding-bottom: 40px;
+}

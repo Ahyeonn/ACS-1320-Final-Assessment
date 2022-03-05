@@ -1,0 +1,10 @@
+.forband {
+    font-size: 15px;
+    width: 100%;
+    border-bottom: solid;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 3rem;
+}
