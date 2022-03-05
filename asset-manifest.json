@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ACS-1320-Final-Assessment/static/css/main.bcc5a073.css",
+    "main.js": "/ACS-1320-Final-Assessment/static/js/main.1d9259fd.js",
+    "index.html": "/ACS-1320-Final-Assessment/index.html",
+    "main.bcc5a073.css.map": "/ACS-1320-Final-Assessment/static/css/main.bcc5a073.css.map",
+    "main.1d9259fd.js.map": "/ACS-1320-Final-Assessment/static/js/main.1d9259fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc5a073.css",
+    "static/js/main.1d9259fd.js"
+  ]
+}
